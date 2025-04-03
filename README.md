@@ -14,7 +14,7 @@ User Management:
 
 -As a registered user, I want to see a brief profile summary when selecting a user so that I can confirm I am messaging the right person.
 
-As a registered user, I want to see a brief description or bio of each user so that I can learn more about who I am chatting with.
+-As a registered user, I want to see a brief description or bio of each user so that I can learn more about who I am chatting with.
 
 Initiating Conversations:
 
